@@ -1,5 +1,9 @@
 
 # Busca Heuristica A*: The Walking Dead
+
+![TWD](https://1.bp.blogspot.com/-3ncWBmmnkq4/XlbbvfqHklI/AAAAAAAACi8/KXsK6CIhIQEAw0_JX2JWt_CfHVBTgnF0gCLcBGAsYHQ/s1600/twd.png)
+
+
 Este é um software desenvolvido para a disciplina de Inteligência Artificial da Universidade Federal de Ouro Preto.
 
 O software foi escrito utilizando C# como linguagem de programação. Para desenhar os gráficos foi utilizado o XNA Framework, um framework da Microsoft para o desenvolvimento de jogos. Infelizmente o XNA foi descontinuado pela Microsoft, porém, este projeto pode ser portado para o Monogame, que é uma implementação do XNA feita pela comunidade.
